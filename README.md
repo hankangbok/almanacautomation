@@ -15,3 +15,5 @@ Future plans:
 #pull from remote successful
 
 #test of git push changes 180820 1530
+
+"Calendar of Astronomical Events Courtesy of Fred Espenak, www.AstroPixels.com".
