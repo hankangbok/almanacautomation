@@ -1,0 +1,262 @@
+Jan 01  13:50  Venus 1.3°S of Moon
+    01  21     Saturn in Conjunction with Sun 
+    02  21     Earth at Perihelion: 0.98330 AU
+    02  23:37  Jupiter 3.1°S of Moon
+    03  18     Quadrantid Meteor Shower
+    05  17:28  NEW MOON 
+    05  17:41  Partial Solar Eclipse; mag=0.715
+    05  21     Venus at Greatest Elong: 47.0°W
+    06  16:08  Moon at Descending Node 
+    08  20:29  Moon at Apogee: 406116 km
+    12  00     Mercury at Aphelion 
+    12  11:47  Mars 5.3°N of Moon
+    13  22:45  FIRST QUARTER MOON 
+    17  10:20  Aldebaran 1.6°S of Moon
+    20  14:48  Moon at Ascending Node 
+    20  21:12  Total Lunar Eclipse; mag=1.195
+    20  21:16  FULL MOON 
+    21  07:32  Beehive 0.6°N of Moon
+    21  11:58  Moon at Perigee: 357345 km
+    22  17:41  Regulus 2.5°S of Moon
+    27  13:10  LAST QUARTER MOON 
+    29  19     Mercury at Superior Conjunction 
+    30  15:54  Jupiter 2.8°S of Moon
+    31  09:36  Venus 0.1°S of Moon: Occn.
+Feb 01  23:18  Saturn 0.6°S of Moon: Occn.
+    02  22:35  Moon at Descending Node 
+    04  13:04  NEW MOON 
+    05  01:26  Moon at Apogee: 406556 km
+    12  14:26  FIRST QUARTER MOON 
+    13  19:29  Aldebaran 1.7°S of Moon
+    17  01:42  Moon at Ascending Node 
+    17  19:05  Beehive 0.6°N of Moon
+    19  01:06  Moon at Perigee: 356762 km
+    19  05:08  Regulus 2.5°S of Moon
+    19  07:53  FULL MOON 
+    25  00     Mercury at Perihelion 
+    26  03:28  LAST QUARTER MOON 
+    26  17     Mercury at Greatest Elong: 18.1°E
+    27  06:17  Jupiter 2.3°S of Moon
+Mar 01  10:40  Saturn 0.3°S of Moon: Occn.
+    02  03:03  Moon at Descending Node 
+    02  13:28  Venus 1.2°N of Moon
+    04  03:25  Moon at Apogee: 406391 km
+    06  08:04  NEW MOON 
+    06  17     Neptune in Conjunction with Sun 
+    11  04:09  Mars 5.8°N of Moon
+    13  02:13  Aldebaran 1.9°S of Moon
+    14  02:27  FIRST QUARTER MOON 
+    14  18     Mercury at Inferior Conjunction 
+    16  08:22  Moon at Ascending Node 
+    17  05:01  Beehive 0.5°N of Moon
+    18  15:59  Regulus 2.6°S of Moon
+    19  11:47  Moon at Perigee: 359381 km
+    20  13:58  Vernal Equinox 
+    20  17:43  FULL MOON 
+    26  18:28  Jupiter 1.9°S of Moon
+    27  20:10  LAST QUARTER MOON 
+    28  21:11  Saturn 0.1°N of Moon: Occn.
+    29  05:08  Moon at Descending Node 
+    30  19:06  Mars 3.1°S of Pleiades
+    31  16:14  Moon at Apogee: 405577 km
+Apr 01  20:18  Venus 2.7°N of Moon
+    02  15:01  Mercury 3.6°N of Moon
+    05  00:50  NEW MOON 
+    08  22:40  Mars 4.7°N of Moon
+    09  07:43  Aldebaran 2.1°S of Moon
+    11  11     Mercury at Greatest Elong: 27.7°W
+    12  10:08  Moon at Ascending Node 
+    12  11:06  FIRST QUARTER MOON 
+    13  12:12  Beehive 0.2°N of Moon
+    14  16:24  Mars 6.4°N of Aldebaran
+    15  00:22  Regulus 2.7°S of Moon
+    16  12     Mercury 4.3° of Venus
+    16  14:02  Moon at Perigee: 364209 km
+    17  19     Venus at Aphelion 
+    19  03:12  FULL MOON 
+    22  16     Lyrid Meteor Shower
+    22  16     Uranus in Conjunction with Sun 
+    23  03:36  Jupiter 1.6°S of Moon
+    25  06:38  Saturn 0.4°N of Moon: Occn.
+    25  07:02  Moon at Descending Node 
+    26  14:18  LAST QUARTER MOON 
+    28  10:20  Moon at Apogee: 404577 km
+May 02  03:39  Venus 3.6°N of Moon
+    02  22:26  Mercury 2.9°N of Moon
+    04  14:45  NEW MOON 
+    05  05     Eta-Aquarid Meteor Shower
+    06  13:52  Aldebaran 2.3°S of Moon
+    07  15:36  Mars 3.2°N of Moon
+    09  10:50  Moon at Ascending Node 
+    09  19:30  Pollux 6.3°N of Moon
+    10  17:35  Beehive 0.0°S of Moon
+    11  17:12  FIRST QUARTER MOON 
+    12  06:19  Regulus 3.0°S of Moon
+    13  13:53  Moon at Perigee: 369017 km
+    18  13:11  FULL MOON 
+    20  08:54  Jupiter 1.7°S of Moon
+    21  05     Mercury at Superior Conjunction 
+    22  11:12  Moon at Descending Node 
+    22  14:25  Saturn 0.5°N of Moon: Occn.
+    23  23     Mercury at Perihelion 
+    26  05:27  Moon at Apogee: 404134 km
+    26  08:33  LAST QUARTER MOON 
+Jun 01  10:15  Venus 3.2°N of Moon
+    03  02:02  NEW MOON 
+    04  07:42  Mercury 3.7°N of Moon
+    05  07:05  Mars 1.6°N of Moon
+    05  14:46  Moon at Ascending Node 
+    06  01:41  Pollux 6.2°N of Moon
+    06  23:19  Beehive 0.2°S of Moon
+    07  15:21  Moon at Perigee: 368508 km
+    08  11:36  Regulus 3.2°S of Moon
+    08  17:51  Venus 5.0°S of Pleiades
+    09  21:59  FIRST QUARTER MOON 
+    10  07     Jupiter at Opposition 
+    16  10:50  Jupiter 2.0°S of Moon
+    16  15:09  Venus 4.6°N of Aldebaran
+    17  00:31  FULL MOON 
+    18  10     Mercury 0.2° of Mars
+    18  17:49  Moon at Descending Node 
+    18  19:58  Saturn 0.4°N of Moon: Occn.
+    19  05:04  Mercury 5.2°S of Pollux
+    21  00:00  Mars 5.4°S of Pollux
+    21  07:54  Summer Solstice 
+    22  23:50  Moon at Apogee: 404549 km
+    23  15     Mercury at Greatest Elong: 25.2°E
+    25  01:46  LAST QUARTER MOON 
+    30  07:06  Aldebaran 2.3°S of Moon
+Jul 02  11:16  NEW MOON 
+    02  11:23  Total Solar Eclipse; mag=1.046
+    02  22:53  Moon at Ascending Node 
+    04  00:34  Mercury 3.3°S of Moon
+    04  05:20  Mercury 2.5°S of Beehive
+    04  07:02  Beehive 0.2°S of Moon
+    04  15     Earth at Aphelion: 1.01676 AU
+    04  20:54  Moon at Perigee: 363729 km
+    05  15     Mercury 3.8° of Mars
+    05  18:17  Regulus 3.2°S of Moon
+    06  23     Mercury at Aphelion 
+    09  02:55  FIRST QUARTER MOON 
+    09  08     Saturn at Opposition 
+    12  23:06  Mars 0.4°S of Beehive
+    13  11:43  Jupiter 2.3°S of Moon
+    15  23:27  Saturn 0.2°N of Moon: Occn.
+    16  01:05  Moon at Descending Node 
+    16  13:31  Partial Lunar Eclipse; mag=0.653
+    16  13:38  FULL MOON 
+    20  16:01  Moon at Apogee: 405480 km
+    21  05     Mercury at Inferior Conjunction 
+    24  17:18  LAST QUARTER MOON 
+    27  16:47  Aldebaran 2.3°S of Moon
+    28  07     Delta-Aquarid Meteor Shower
+    30  09:02  Moon at Ascending Node 
+    31  19:12  NEW MOON 
+Aug 01  23:08  Moon at Perigee: 359398 km
+    07  09:31  FIRST QUARTER MOON 
+    08  03     Venus at Perihelion 
+    09  14:53  Jupiter 2.5°S of Moon
+    09  15     Mercury at Greatest Elong: 19.0°W
+    12  02:05  Saturn 0.0°N of Moon: Occn.
+    12  06:45  Moon at Descending Node 
+    12  06:59  Jupiter 4.3°N of Antares
+    12  23     Perseid Meteor Shower
+    13  22     Venus at Superior Conjunction 
+    15  04:29  FULL MOON 
+    16  20:24  Mercury 1.2°S of Beehive
+    17  02:50  Moon at Apogee: 406244 km
+    19  23     Mercury at Perihelion 
+    23  06:56  LAST QUARTER MOON 
+    24  01:24  Aldebaran 2.4°S of Moon
+    25  16     Mars at Aphelion 
+    26  17:50  Moon at Ascending Node 
+    27  06:30  Pollux 6.1°N of Moon
+    28  03:31  Beehive 0.2°S of Moon
+    30  02:37  NEW MOON 
+    30  07:57  Moon at Perigee: 357177 km
+Sep 02  02     Mars in Conjunction with Sun 
+    03  17     Mercury at Superior Conjunction 
+    05  19:10  FIRST QUARTER MOON 
+    05  22:52  Jupiter 2.3°S of Moon
+    08  05:53  Saturn 0.0°N of Moon: Occn.
+    08  09:35  Moon at Descending Node 
+    09  22     Neptune at Opposition 
+    13  05:32  Moon at Apogee: 406378 km
+    13  20:33  FULL MOON 
+    20  08:14  Aldebaran 2.6°S of Moon
+    21  18:41  LAST QUARTER MOON 
+    22  22:30  Moon at Ascending Node 
+    22  23:50  Autumnal Equinox 
+    23  15:34  Pollux 5.9°N of Moon
+    24  13:15  Beehive 0.4°S of Moon
+    26  00:30  Regulus 3.3°S of Moon
+    27  18:27  Moon at Perigee: 357803 km
+    28  10:26  NEW MOON 
+    28  20:15  Mercury 1.2°N of Spica
+Oct 03  12:23  Jupiter 1.9°S of Moon
+    05  08:47  FIRST QUARTER MOON 
+    05  10:49  Moon at Descending Node 
+    05  12:48  Saturn 0.3°N of Moon: Occn.
+    10  10:29  Moon at Apogee: 405902 km
+    13  13:08  FULL MOON 
+    17  13:51  Aldebaran 2.9°S of Moon
+    19  20     Mercury at Greatest Elong: 24.6°E
+    19  23:28  Moon at Ascending Node 
+    20  22:21  Pollux 5.7°N of Moon
+    21  04:39  LAST QUARTER MOON 
+    21  15     Orionid Meteor Shower
+    21  20:41  Beehive 0.6°S of Moon
+    23  09:11  Regulus 3.5°S of Moon
+    26  02:41  Moon at Perigee: 361316 km
+    27  19:38  NEW MOON 
+    28  00     Uranus at Opposition 
+    29  05:34  Venus 3.9°S of Moon
+    30  20     Mercury 2.5° of Venus
+    31  06:22  Jupiter 1.3°S of Moon
+Nov 01  13:40  Moon at Descending Node 
+    01  23:31  Saturn 0.6°N of Moon: Occn.
+    04  02:23  FIRST QUARTER MOON 
+    05  16     S Taurid Meteor Shower
+    07  00:37  Moon at Apogee: 405060 km
+    09  11:18  Venus 3.8°N of Antares
+    09  15:07  Mars 2.6°N of Spica
+    11  07     Mercury at Inferior Conjunction 
+    12  05:34  FULL MOON 
+    12  15     N Taurid Meteor Shower
+    13  19:52  Aldebaran 3.0°S of Moon
+    15  22     Mercury at Perihelion 
+    16  00:48  Moon at Ascending Node 
+    17  03:41  Pollux 5.4°N of Moon
+    17  21     Leonid Meteor Shower
+    18  02:11  Beehive 0.9°S of Moon
+    19  13:11  LAST QUARTER MOON 
+    19  15:24  Regulus 3.7°S of Moon
+    22  23:54  Moon at Perigee: 366721 km
+    24  01:02  Mars 4.3°S of Moon
+    24  18:50  Mercury 1.9°S of Moon
+    26  07:06  NEW MOON 
+    28  02     Mercury at Greatest Elong: 20.1°W
+    28  02:49  Jupiter 0.7°S of Moon: Occn.
+    28  10:50  Venus 1.9°S of Moon
+    28  20:13  Moon at Descending Node 
+    29  13:12  Saturn 0.9°N of Moon: Occn.
+Dec 03  22:58  FIRST QUARTER MOON 
+    04  20:09  Moon at Apogee: 404447 km
+    11  03:40  Aldebaran 3.0°S of Moon
+    11  21:12  FULL MOON 
+    13  06:15  Moon at Ascending Node 
+    14  09:51  Pollux 5.3°N of Moon
+    14  10     Geminid Meteor Shower
+    15  07:54  Beehive 1.0°S of Moon
+    16  20:41  Regulus 3.8°S of Moon
+    18  12:30  Moon at Perigee: 370260 km
+    18  20:57  LAST QUARTER MOON 
+    21  20:19  Winter Solstice 
+    22  17:49  Mars 3.5°S of Moon
+    22  19     Ursid Meteor Shower
+    25  21:13  NEW MOON 
+    25  21:18  Annular Solar Eclipse; mag=0.970
+    26  05:01  Moon at Descending Node 
+    27  10     Jupiter in Conjunction with Sun 
+    28  17:32  Venus 1.0°N of Moon: Occn.
+    29  21     Mercury at Aphelion 
