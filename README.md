@@ -12,3 +12,6 @@ Future plans:
 
 
 #git fetch change test 180820 1521
+#pull from remote successful
+
+#test of git push changes 180820 1530
