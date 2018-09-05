@@ -8,7 +8,7 @@ import sys
 prelim=raw_input("use default 2019 file? Y/N ")
 if prelim=="y" or prelim=="Y":
         print "Okay."
-        filename="2019skyevents.txt"
+        filename="2019PSTevents.txt"
 else:
         filename=raw_input("Please paste the full file path to your reference txt file: ")
 
